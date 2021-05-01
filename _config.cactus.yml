@@ -1,0 +1,10 @@
+nav:
+  首页: /
+  关于我: /about/
+  文章合集: /archives/
+
+social_links:
+  github: http://github.com/whyouare111
+  mail: mailto:whyouare556@protonmail.com
+
+colorscheme: 'dark'

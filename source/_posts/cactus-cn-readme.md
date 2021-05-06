@@ -4,6 +4,10 @@ date: 2021-05-06 14:35:39
 tags:
 ---
 
+原文链接：https://xuthus.vercel.app/misc/cactus-chinese-support.htm
+
+本文用于展现效果
+
 [Cactus](https://github.com/probberechts/hexo-theme-cactus)(仙人掌)是一个为[Hexo](https://hexo.io)开发的响应式个人网站主题,拥有清简的样式。在采纳它作为博客主题时,它在支持中文字体方面略显不足，锯齿感明显，在此主题的基础上，修改了些许样式，以符合个人审美。
 :cactus: [修改版演示](https://xuthus.cc)
 :cactus: [原版演示](https://probberechts.github.io/hexo-theme-cactus/)

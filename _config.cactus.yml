@@ -1,10 +1,30 @@
+favicon:
+  desktop:
+    url: /images/favicon2.ico
+    gravatar: false
+  android:
+    url: /images/favicon2-192x192.png
+    gravatar: false
+  apple:
+    url: /images/apple-touch-icon2.png
+    gravatar: false
+
+logo:
+  enabled: true
+  width: 50
+  height: 50
+  url: /images/logo2.png
+  gravatar: false
+  grayout: true
+
 nav:
-  首页: /
-  关于我: /about/
-  文章合集: /archives/
+  home: /
+  about: /about/
+  articles: /archives/
+  search: /search/
 
 social_links:
   github: http://github.com/whyouare111
   mail: mailto:whyouare556@protonmail.com
 
-colorscheme: 'dark'
+colorscheme: "dark"

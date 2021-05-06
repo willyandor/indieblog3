@@ -1,10 +1,10 @@
-title: 我的小站
-subtitle: 🌌
-description: 宇宙唱晚
+title: "未解区域"
+subtitle: "🌌"
+description: "宇宙唱晚\r\nWeb 3.0 / 8-bit fan / Metaverse"
 keywords: Metaverse;元宇宙
 author: WhyYouAre
 language: zh-CN
-timezone: "CN"
+timezone: ""
 url: https://whyouare111.github.io/indieblog3
 permalink: :title/
 permalink_defaults: null
@@ -29,7 +29,7 @@ external_link:
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
-relative_link: true
+relative_link: false
 future: true
 highlight:
   enable: true

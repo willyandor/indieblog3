@@ -8,6 +8,7 @@ author: WhyYouAre
 language: zh-CN
 timezone: "Asia/Shanghai"
 url: https://whyouare111.github.io/indieblog3
+root: /indieblog3/
 permalink: :title/
 permalink_defaults: null
 pretty_urls:

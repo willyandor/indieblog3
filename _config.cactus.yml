@@ -1,0 +1,9 @@
+nav:
+  home: /
+  articles: /archives/
+  
+social_links:
+  github: http://github.com/whyouare111
+  mail: mailto:whyouare556@protonmail.com
+
+colorscheme: "dark"

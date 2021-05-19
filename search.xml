@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>关于 “未解区域”</title>
+      <link href="/indieblog3/2021/05/Gh20210550500ba30d6226d6522402fba2d67799/"/>
+      <url>/indieblog3/2021/05/Gh20210550500ba30d6226d6522402fba2d67799/</url>
+      
+        <content type="html"><![CDATA[<p>独立子站 <code>cactus</code> 主题测试用 “关于” 页面</p><p>当然也是可以用其他方式（比如直接在 Github 上创建）提交一个干净的 <code>about.md</code> 来作为此页面的，不过对能指定具体路径的页面来说，这种方式可以实现和 Matataki 的双向同步编辑</p><ol><li>先在 Matataki 写一篇文章</li><li>等待站点构建后确认生成的文章的路径，记录</li><li>到 <code>_config.cactus.yml</code> 配置 <code>nav.about</code> 的路径</li></ol>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>让独立子站支持更多的主题</title>
       <link href="/indieblog3/2021/05/Gh2021058ef1ed929daaba945102dbe5e310fb25/"/>
       <url>/indieblog3/2021/05/Gh2021058ef1ed929daaba945102dbe5e310fb25/</url>

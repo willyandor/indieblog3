@@ -5,7 +5,7 @@ description: "宇宙唱晚\r
   Web 3.0 / 8-bit fan / Metaverse"
 keywords: web3 8-bit Metaverse 元宇宙
 author: WhyYouAre
-language: zh
+language: zh-CN
 timezone: Asia/Shanghai
 url: https://whyouare111.github.io/indieblog3
 root: /indieblog3/
@@ -62,6 +62,6 @@ pagination_dir: page
 include: null
 exclude: null
 ignore: null
-theme: icarus
+theme: cactus
 deploy:
   type: ""

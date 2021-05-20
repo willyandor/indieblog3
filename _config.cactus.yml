@@ -1,8 +1,29 @@
+favicon:
+  desktop:
+    url: /images/favicon2.ico
+    gravatar: false
+  android:
+    url: /images/favicon2-192x192.png
+    gravatar: false
+  apple:
+    url: /images/apple-touch-icon2.png
+    gravatar: false
+
+logo:
+  enabled: true
+  width: 50
+  height: 50
+  url: /images/logo2.png
+  gravatar: false
+  grayout: true
+
 nav:
   home: /
   about: /2021/05/Gh20210550500ba30d6226d6522402fba2d67799/
   articles: /archives/
+  search: /search/
   matataki: https://matataki.io/user/12458
+  travelling: https://travellings.now.sh
   
 social_links:
   github: http://github.com/whyouare111
